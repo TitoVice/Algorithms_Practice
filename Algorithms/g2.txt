@@ -1,0 +1,36 @@
+6
+Manel Pi 0.75 10
+Enrique Lopez 0.15 2
+Ferran Lopez 0.10 10
+Pere Perez 0.25 5
+Olga Prat 0.8 10
+Josep Sasun 1 5
+14
+Rodrigo Benet 0.1
+Gemma Prats 0.1
+Maria Pi 0.1
+Pere Prats 0.2
+Eva Puig 0.2
+Josep Parque 0.2
+Pilar Mata 0.3
+Lola Sasun 0.3
+Manel Perez 0.3
+Marta Peris 0.4
+Anna Vazquez 0.4
+Narcis Sega 0.4
+Jordi Perez 0.5
+Joan Alegre 0.5
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1
+6 5 4 3 2 1

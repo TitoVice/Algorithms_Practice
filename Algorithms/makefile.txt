@@ -1,0 +1,38 @@
+tfg: main.o Processos.o SolucionadorMillor.o SolucionadorUnic.o SolucioMillor.o SolucioUnic.o CandidatMillor.o CandidatUnic.o Tutor.o Alumne.o myexception.o
+	g++ main.o Processos.o SolucionadorMillor.o SolucionadorUnic.o SolucioMillor.o SolucioUnic.o CandidatMillor.o CandidatUnic.o Tutor.o Alumne.o myexception.o -o tfg
+	
+main.o: main.cpp
+	g++ -c main.cpp
+
+Processos.o: Processos.cpp
+	g++ -c Processos.cpp
+
+SolucionadorMillor.o: SolucionadorMillor.cpp
+	g++ -c SolucionadorMillor.cpp
+
+SolucionadorUnic.o: SolucionadorUnic.cpp
+	g++ -c SolucionadorUnic.cpp
+
+SolucioMillor.o: SolucioMillor.cpp
+	g++ -c SolucioMillor.cpp
+
+SolucioUnic.o: SolucioUnic.cpp
+	g++ -c SolucioUnic.cpp
+
+CandidatMillor.o: CandidatMillor.cpp
+	g++ -c CandidatMillor.cpp
+
+CandidatUnic.o: CandidatUnic.cpp
+	g++ -c CandidatUnic.cpp
+
+Tutor.o: Tutor.cpp
+	g++ -c Tutor.cpp
+
+Alumne.o: Alumne.cpp
+	g++ -c Alumne.cpp
+
+myexception.o: myexception.cpp
+	g++ -c myexception.cpp
+	
+clean: 
+	rm *.o

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PràcticaFinal2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PràcticaFinal2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PràcticaFinal2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Alumne.cpp" />
+		<Unit filename="Alumne.h" />
+		<Unit filename="CandidatMillor.cpp" />
+		<Unit filename="CandidatMillor.h" />
+		<Unit filename="CandidatUnic.cpp" />
+		<Unit filename="CandidatUnic.h" />
+		<Unit filename="Processos.cpp" />
+		<Unit filename="Processos.h" />
+		<Unit filename="SolucioMillor.cpp" />
+		<Unit filename="SolucioMillor.h" />
+		<Unit filename="SolucioUnic.cpp" />
+		<Unit filename="SolucioUnic.h" />
+		<Unit filename="SolucionadorMillor.cpp" />
+		<Unit filename="SolucionadorMillor.h" />
+		<Unit filename="SolucionadorUnic.cpp" />
+		<Unit filename="SolucionadorUnic.h" />
+		<Unit filename="Tutor.cpp" />
+		<Unit filename="Tutor.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="myexception.cpp" />
+		<Unit filename="myexception.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

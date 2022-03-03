@@ -1,0 +1,32 @@
+#!/bin/bash
+	echo ./tfg --help
+	./tfg --help
+	echo =============================
+	echo ./tfg -m g2.txt
+	./tfg -m g2.txt
+	echo =============================
+	echo ./tfg -u 2 jola g2.txt
+	./tfg -u 2 jola g2.txt
+	echo =============================
+	echo ./tfg -u g2.txt
+	./tfg -u g2.txt
+	echo =============================
+	echo ./tfg -t g1.txt
+	./tfg -t g1.txt
+	echo =============================
+	echo ./tfg -g noExisteix.txt
+	./tfg -g noExisteix.txt
+	echo =============================
+	echo ./tfg -u 2 g4.txt
+	./tfg -u 2 g4.txt
+	echo =============================
+	echo ./tfg -m g3.txt
+	./tfg -m g3.txt
+	echo =============================
+	echo ./tfg -u 1 g2.txt
+	./tfg -u 1 g2.txt
+	echo =============================
+	echo ./tfg -g g2.txt
+	./tfg -g g2.txt
+	echo =============================
+echo PROVES ACABADES

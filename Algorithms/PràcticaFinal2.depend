@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1546875655 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\alumne.cpp
+	"Alumne.h"
+	<string>
+
+1546901918 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\alumne.h
+	<string>
+	<vector>
+	"Tutor.h"
+
+1546877001 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\candidatmillor.cpp
+	"CandidatMillor.h"
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546900294 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\candidatmillor.h
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546876933 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\candidatunic.cpp
+	"CandidatUnic.h"
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546901949 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\candidatunic.h
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546868110 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\myexception.cpp
+	"myexception.h"
+
+1546947996 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\soluciomillor.cpp
+	"SolucioMillor.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	"myexception.h"
+	"Tutor.h"
+	"Alumne.h"
+	"CandidatMillor.h"
+
+1546947952 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\soluciomillor.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	"myexception.h"
+	"Tutor.h"
+	"Alumne.h"
+	"CandidatMillor.h"
+
+1546947952 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\solucionadormillor.cpp
+	"SolucionadorMillor.h"
+	"SolucioMillor.h"
+	"CandidatMillor.h"
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546901729 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\solucionadormillor.h
+	"SolucioMillor.h"
+	"CandidatMillor.h"
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546693085 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\solucionadorunic.cpp
+	"SolucionadorUnic.h"
+	"SolucioUnic.h"
+	"CandidatUnic.h"
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546901869 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\solucionadorunic.h
+	"SolucioUnic.h"
+	"CandidatUnic.h"
+	"myexception.h"
+	<iostream>
+	<string>
+
+1546877297 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\soluciounic.cpp
+	"SolucioUnic.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	"myexception.h"
+	"Tutor.h"
+	"Alumne.h"
+	"CandidatUnic.h"
+
+1546901366 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\soluciounic.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	"myexception.h"
+	"Tutor.h"
+	"Alumne.h"
+	"CandidatUnic.h"
+
+1546875865 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\tutor.cpp
+	"Tutor.h"
+	<iostream>
+	<string>
+
+1546905113 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\tutor.h
+	<iostream>
+	<string>
+
+1546900445 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\myexception.h
+	<exception>
+	<string>
+
+1546947016 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<chrono>
+	"Processos.h"
+	"myexception.h"
+	<windows.h>
+
+1546899756 c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\processos.h
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<vector>
+	"myexception.h"
+	"Tutor.h"
+	"Alumne.h"
+
+1546897334 source:c:\users\tito vice\desktop\udg\2n any\1r semestre\estructura de dades i algorítmica\pràcticafinal2\processos.cpp
+	"Processos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	<vector>
+	<set>
+	"myexception.h"
+	"Tutor.h"
+	"Alumne.h"
+	"SolucionadorMillor.h"
+	"SolucionadorUnic.h"
+	"SolucioMillor.h"
+	"SolucioUnic.h"
+

@@ -1,0 +1,12 @@
+2
+Manel Pi 0.7 10
+Enrique Lopez 0.1 2
+4
+Rodrigo Benet 0.2
+Gemma Prats 0.3
+Maria Pi 0.6
+Pere Prats 0.7
+2 1
+2 1
+2 1
+2 1
